@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "aot_001",
+    "anime": {
+      "official": "Attack on Titan",
+      "romaji": "Shingeki no Kyojin",
+      "french": "L'Attaque des Titans"
+    },
+    "accepted_answers": [
+      "attack on titan",
+      "shingeki no kyojin",
+      "snk",
+      "aot",
+      "attaque des titans",
+      "l'attaque des titans"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "🧱", "😱"] },
+      { "difficulty": "medium", "emojis": ["🩸", "🔥", "🧍"] },
+      { "difficulty": "hard", "emojis": ["🧬", "⛓️", "👁️"] }
+    ]
+  },
+  {
+    "id": "dn_002",
+    "anime": {
+      "official": "Death Note",
+      "romaji": "Desu Nōto",
+      "french": "Death Note"
+    },
+    "accepted_answers": ["death note", "desu noto", "dn"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["📓", "💀", "😈"] },
+      { "difficulty": "medium", "emojis": ["🧠", "⚖️", "🕵️"] },
+      { "difficulty": "hard", "emojis": ["🍎", "👁️", "♟️"] }
+    ]
+  },
+  {
+    "id": "naruto_003",
+    "anime": {
+      "official": "Naruto",
+      "romaji": "Naruto",
+      "french": "Naruto"
+    },
+    "accepted_answers": ["naruto", "naruto shippuden"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🥷", "🍥", "🔥"] },
+      { "difficulty": "medium", "emojis": ["🌀", "⚔️", "🐸"] },
+      { "difficulty": "hard", "emojis": ["👁️", "🩸", "⛓️"] }
+    ]
+  },
+  {
+    "id": "op_004",
+    "anime": {
+      "official": "One Piece",
+      "romaji": "Wan Pīsu",
+      "french": "One Piece"
+    },
+    "accepted_answers": ["one piece", "wan pisu", "op"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏴‍☠️", "⛵", "👒"] },
+      { "difficulty": "medium", "emojis": ["🌊", "⚔️", "💎"] },
+      { "difficulty": "hard", "emojis": ["🗺️", "☠️", "🔥"] }
+    ]
+  },
+  {
+    "id": "dbz_005",
+    "anime": {
+      "official": "Dragon Ball Z",
+      "romaji": "Doragon Bōru Zetto",
+      "french": "Dragon Ball Z"
+    },
+    "accepted_answers": ["dragon ball z", "dbz", "dragon ball"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐉", "💥", "👊"] },
+      { "difficulty": "medium", "emojis": ["🔥", "🟠", "⚡"] },
+      { "difficulty": "hard", "emojis": ["🧬", "👽", "💫"] }
+    ]
+  },
+  {
+    "id": "ds_006",
+    "anime": {
+      "official": "Demon Slayer",
+      "romaji": "Kimetsu no Yaiba",
+      "french": "Demon Slayer"
+    },
+    "accepted_answers": ["demon slayer", "kimetsu no yaiba", "kny"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🗡️", "👹", "🔥"] },
+      { "difficulty": "medium", "emojis": ["🌊", "⚔️", "🩸"] },
+      { "difficulty": "hard", "emojis": ["🎴", "🌙", "👁️"] }
+    ]
+  },
+  {
+    "id": "jjk_007",
+    "anime": {
+      "official": "Jujutsu Kaisen",
+      "romaji": "Jujutsu Kaisen",
+      "french": "Jujutsu Kaisen"
+    },
+    "accepted_answers": ["jujutsu kaisen", "jjk"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👻", "⚔️", "🔥"] },
+      { "difficulty": "medium", "emojis": ["🩸", "🌀", "👁️"] },
+      { "difficulty": "hard", "emojis": ["🧠", "⛓️", "⚫"] }
+    ]
+  },
+  {
+    "id": "tokyo_ghoul_008",
+    "anime": {
+      "official": "Tokyo Ghoul",
+      "romaji": "Tōkyō Gūru",
+      "french": "Tokyo Ghoul"
+    },
+    "accepted_answers": ["tokyo ghoul", "tg"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👁️", "🩸", "😱"] },
+      { "difficulty": "medium", "emojis": ["🎭", "🔪", "⚫"] },
+      { "difficulty": "hard", "emojis": ["☕", "🧠", "⛓️"] }
+    ]
+  },
+  {
+    "id": "bleach_009",
+    "anime": {
+      "official": "Bleach",
+      "romaji": "Burīchi",
+      "french": "Bleach"
+    },
+    "accepted_answers": ["bleach", "burīchi"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "👻", "🩸"] },
+      { "difficulty": "medium", "emojis": ["🔥", "💀", "👁️"] },
+      { "difficulty": "hard", "emojis": ["🌀", "☠️", "🧬"] }
+    ]
+  },
+  {
+    "id": "fmab_010",
+    "anime": {
+      "official": "Fullmetal Alchemist: Brotherhood",
+      "romaji": "Hagane no Renkinjutsushi: Brotherhood",
+      "french": "Fullmetal Alchemist: Brotherhood"
+    },
+    "accepted_answers": [
+      "fullmetal alchemist: brotherhood",
+      "fmab",
+      "hagane no renkinjutsushi: brotherhood",
+      "alchimiste d'acier"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚗️", "🩸", "🤖"] },
+      { "difficulty": "medium", "emojis": ["🧪", "🔥", "🧍"] },
+      { "difficulty": "hard", "emojis": ["⛓️", "👁️", "🧬"] }
+    ]
+  },
+  {
+    "id": "hxh_011",
+    "anime": {
+      "official": "Hunter x Hunter",
+      "romaji": "Hantā Hantā",
+      "french": "Hunter x Hunter"
+    },
+    "accepted_answers": ["hunter x hunter", "hantā hantā", "hxh"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎣", "🃏", "🧒"] },
+      { "difficulty": "medium", "emojis": ["⚡", "⛓️", "🐜"] },
+      { "difficulty": "hard", "emojis": ["🎲", "🎭", "💀"] }
+    ]
+  },
+  {
+    "id": "mha_012",
+    "anime": {
+      "official": "My Hero Academia",
+      "romaji": "Boku no Hīrō Akademia",
+      "french": "My Hero Academia"
+    },
+    "accepted_answers": [
+      "my hero academia",
+      "boku no hīrō akademia",
+      "mha",
+      "bnha"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🦸", "🏫", "🥦"] },
+      { "difficulty": "medium", "emojis": ["❄️", "🔥", "👊"] },
+      { "difficulty": "hard", "emojis": ["🧤", "🏥", "🧬"] }
+    ]
+  },
+  {
+    "id": "chainsaw_man_013",
+    "anime": {
+      "official": "Chainsaw Man",
+      "romaji": "Chensō Man",
+      "french": "Chainsaw Man"
+    },
+    "accepted_answers": ["chainsaw man", "chensō man", "csm"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🪚", "🐶", "🩸"] },
+      { "difficulty": "medium", "emojis": ["😈", "🚬", "🧥"] },
+      { "difficulty": "hard", "emojis": ["🚪", "🍦", "🥪"] }
+    ]
+  },
+  {
+    "id": "spy_x_family_014",
+    "anime": {
+      "official": "Spy x Family",
+      "romaji": "Supai Famirī",
+      "french": "Spy x Family"
+    },
+    "accepted_answers": ["spy x family", "supai famirī", "sxf"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🕵️", "👩‍🍳", "👧"] },
+      { "difficulty": "medium", "emojis": ["🥜", "🔫", "🏰"] },
+      { "difficulty": "hard", "emojis": ["🎩", "🧪", "🍷"] }
+    ]
+  },
+  {
+    "id": "jjba_015",
+    "anime": {
+      "official": "JoJo's Bizarre Adventure",
+      "romaji": "JoJo no Kimyō na Bōken",
+      "french": "JoJo's Bizarre Adventure"
+    },
+    "accepted_answers": [
+      "jojo's bizarre adventure",
+      "jojo no kimyō na bōken",
+      "jjba",
+      "jojo"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⭐", "⏳", "👊"] },
+      { "difficulty": "medium", "emojis": ["🧛", "🎭", "🗡️"] },
+      { "difficulty": "hard", "emojis": ["🏇", "🍝", "🐢"] }
+    ]
+  },
+  {
+    "id": "sao_016",
+    "anime": {
+      "official": "Sword Art Online",
+      "romaji": "Sōdo Āto Onrain",
+      "french": "Sword Art Online"
+    },
+    "accepted_answers": ["sword art online", "sōdo āto onrain", "sao"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "🎮", "🏰"] },
+      { "difficulty": "medium", "emojis": ["🐉", "🥪", "🧚"] },
+      { "difficulty": "hard", "emojis": ["💻", "💉", "🔫"] }
+    ]
+  },
+  {
+    "id": "black_clover_017",
+    "anime": {
+      "official": "Black Clover",
+      "romaji": "Burakku Kurōbā",
+      "french": "Black Clover"
+    },
+    "accepted_answers": ["black clover", "burakku kurōbā", "bc"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🍀", "📖", "⚔️"] },
+      { "difficulty": "medium", "emojis": ["🔥", "👑", "🗡️"] },
+      { "difficulty": "hard", "emojis": ["🐦", "🎭", "💎"] }
+    ]
+  },
+  {
+    "id": "haikyuu_018",
+    "anime": {
+      "official": "Haikyu!!",
+      "romaji": "Haikyū!!",
+      "french": "Haikyu!!"
+    },
+    "accepted_answers": ["haikyu!!", "haikyuu!!", "haikyu", "haikyuu"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏐", "👟", "🥅"] },
+      { "difficulty": "medium", "emojis": ["🐦", "🦊", "🐱"] },
+      { "difficulty": "hard", "emojis": ["🧱", "👑", "🍙"] }
+    ]
+  },
+  {
+    "id": "blue_lock_019",
+    "anime": {
+      "official": "Blue Lock",
+      "romaji": "Burū Rokku",
+      "french": "Blue Lock"
+    },
+    "accepted_answers": ["blue lock", "burū rokku", "bl"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚽", "⛓️", "🏟️"] },
+      { "difficulty": "medium", "emojis": ["🧩", "👁️", "🔵"] },
+      { "difficulty": "hard", "emojis": ["👑", "🏃", "🧊"] }
+    ]
+  },
+  {
+    "id": "dr_stone_020",
+    "anime": {
+      "official": "Dr. Stone",
+      "romaji": "Dokutā Sutōn",
+      "french": "Dr. Stone"
+    },
+    "accepted_answers": ["dr stone", "dokutā sutōn", "doctor stone"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧪", "🗿", "🔬"] },
+      { "difficulty": "medium", "emojis": ["🏹", "💡", "🌽"] },
+      { "difficulty": "hard", "emojis": ["⚡", "🛩️", "🛳️"] }
+    ]
+  },
+  {
+    "id": "code_geass_021",
+    "anime": {
+      "official": "Code Geass: Lelouch of the Rebellion",
+      "romaji": "Kōdo Giasu: Hangyaku no Rurūshu",
+      "french": "Code Geass : Lelouch de la rébellion"
+    },
+    "accepted_answers": [
+      "code geass: lelouch of the rebellion",
+      "kōdo giasu: hangyaku no rurūshu",
+      "code geass : lelouch de la rébellion",
+      "code geass",
+      "cg"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👁️", "🤖", "👑"] },
+      { "difficulty": "medium", "emojis": ["♟️", "🎭", "⚔️"] },
+      { "difficulty": "hard", "emojis": ["🕊️", "🩸", "🔥"] }
+    ]
+  },
+  {
+    "id": "one_punch_man_022",
+    "anime": {
+      "official": "One Punch Man",
+      "romaji": "Wanpanman",
+      "french": "One Punch Man"
+    },
+    "accepted_answers": ["one punch man", "wanpanman", "one punch man", "opm"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👊", "🦸", "💥"] },
+      { "difficulty": "medium", "emojis": ["🦲", "🧟", "🔥"] },
+      { "difficulty": "hard", "emojis": ["🛒", "🍜", "😐"] }
+    ]
+  },
+  {
+    "id": "fairy_tail_023",
+    "anime": {
+      "official": "Fairy Tail",
+      "romaji": "Fearī Teiru",
+      "french": "Fairy Tail"
+    },
+    "accepted_answers": ["fairy tail", "fearī teiru", "fairy tail", "ft"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐉", "🔥", "🧚"] },
+      { "difficulty": "medium", "emojis": ["⚔️", "❄️", "💫"] },
+      { "difficulty": "hard", "emojis": ["🍻", "👆", "💀"] }
+    ]
+  },
+  {
+    "id": "attack_on_titan_junior_high_024",
+    "anime": {
+      "official": "Attack on Titan: Junior High",
+      "romaji": "Shingeki! Kyojin Chūgakkō",
+      "french": "L'Attaque des Titans : Junior High"
+    },
+    "accepted_answers": [
+      "attack on titan: junior high",
+      "shingeki! kyojin chūgakkō",
+      "l'attaque des titans : junior high",
+      "aot junior high"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏫", "😆", "🧱"] },
+      { "difficulty": "medium", "emojis": ["🥖", "⚔️", "😂"] },
+      { "difficulty": "hard", "emojis": ["📚", "🩸", "🎒"] }
+    ]
+  },
+  {
+    "id": "mob_psycho_100_025",
+    "anime": {
+      "official": "Mob Psycho 100",
+      "romaji": "Mobu Saiko Hyaku",
+      "french": "Mob Psycho 100"
+    },
+    "accepted_answers": [
+      "mob psycho 100",
+      "mobu saiko hyaku",
+      "mob psycho 100",
+      "mp100"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧠", "👦", "💥"] },
+      { "difficulty": "medium", "emojis": ["👻", "⚡", "😐"] },
+      { "difficulty": "hard", "emojis": ["🥦", "🏢", "🔮"] }
+    ]
+  },
+  {
+    "id": "re_zero_026",
+    "anime": {
+      "official": "Re:Zero − Starting Life in Another World",
+      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
+      "french": "Re:Zero - Re:vivre dans un autre monde à partir de zéro"
+    },
+    "accepted_answers": [
+      "re:zero − starting life in another world",
+      "re:zero kara hajimeru isekai seikatsu",
+      "re:zero - re:vivre dans un autre monde à partir de zéro",
+      "rezero"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⏳", "👩‍🦳", "🗡️"] },
+      { "difficulty": "medium", "emojis": ["💀", "🔁", "❄️"] },
+      { "difficulty": "hard", "emojis": ["📖", "🩸", "👁️"] }
+    ]
+  },
+  {
+    "id": "the_promised_neverland_027",
+    "anime": {
+      "official": "The Promised Neverland",
+      "romaji": "Yakusoku no Neverland",
+      "french": "The Promised Neverland"
+    },
+    "accepted_answers": [
+      "the promised neverland",
+      "yakusoku no neverland",
+      "the promised neverland",
+      "tpn"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👧", "👦", "🏃"] },
+      { "difficulty": "medium", "emojis": ["🏡", "🧠", "😱"] },
+      { "difficulty": "hard", "emojis": ["🔪", "👁️", "🌙"] }
+    ]
+  },
+  {
+    "id": "vinland_saga_028",
+    "anime": {
+      "official": "Vinland Saga",
+      "romaji": "Vinrando Saga",
+      "french": "Vinland Saga"
+    },
+    "accepted_answers": ["vinland saga", "vinrando saga", "vinland saga", "vs"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "🛡️", "🛶"] },
+      { "difficulty": "medium", "emojis": ["👑", "🩸", "🌊"] },
+      { "difficulty": "hard", "emojis": ["⛓️", "🔥", "👨‍🌾"] }
+    ]
+  },
+  {
+    "id": "steins_gate_029",
+    "anime": {
+      "official": "Steins;Gate",
+      "romaji": "Shutainzu Gēto",
+      "french": "Steins;Gate"
+    },
+    "accepted_answers": ["steins;gate", "shutainzu gēto", "steins;gate", "sg"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⏳", "🔬", "📱"] },
+      { "difficulty": "medium", "emojis": ["🍌", "🧪", "📡"] },
+      { "difficulty": "hard", "emojis": ["🧠", "💀", "🌀"] }
+    ]
+  },
+  {
+    "id": "gintama_030",
+    "anime": {
+      "official": "Gintama",
+      "romaji": "Gintama",
+      "french": "Gintama"
+    },
+    "accepted_answers": ["gintama", "gintama", "gintama", "gtm"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "👘", "😂"] },
+      { "difficulty": "medium", "emojis": ["🍓", "🛸", "🦊"] },
+      { "difficulty": "hard", "emojis": ["📰", "💥", "😑"] }
+    ]
+  },
+  {
+    "id": "food_wars_031",
+    "anime": {
+      "official": "Food Wars! Shokugeki no Soma",
+      "romaji": "Shokugeki no Sōma",
+      "french": "Food Wars! Shokugeki no Soma"
+    },
+    "accepted_answers": [
+      "food wars! shokugeki no soma",
+      "shokugeki no sōma",
+      "food wars! shokugeki no soma",
+      "shokugeki no soma",
+      "fws"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🍜", "🔥", "👨‍🍳"] },
+      { "difficulty": "medium", "emojis": ["🥩", "🍳", "🏫"] },
+      { "difficulty": "hard", "emojis": ["🔪", "🍽️", "👑"] }
+    ]
+  },
+  {
+    "id": "noragami_032",
+    "anime": {
+      "official": "Noragami",
+      "romaji": "Noragami",
+      "french": "Noragami"
+    },
+    "accepted_answers": ["noragami", "noragami", "noragami", "nrg"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⛩️", "⚔️", "👻"] },
+      { "difficulty": "medium", "emojis": ["📱", "🧣", "🌀"] },
+      { "difficulty": "hard", "emojis": ["🗡️", "😼", "🌸"] }
+    ]
+  },
+  {
+    "id": "clannad_033",
+    "anime": {
+      "official": "Clannad",
+      "romaji": "Clannad",
+      "french": "Clannad"
+    },
+    "accepted_answers": ["clannad", "clannad", "clannad", "cld"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌸", "🏫", "👫"] },
+      { "difficulty": "medium", "emojis": ["🎻", "🌧️", "🏠"] },
+      { "difficulty": "hard", "emojis": ["👶", "💔", "🌅"] }
+    ]
+  },
+  {
+    "id": "clannad_after_story_034",
+    "anime": {
+      "official": "Clannad: After Story",
+      "romaji": "Clannad: After Story",
+      "french": "Clannad : After Story"
+    },
+    "accepted_answers": [
+      "clannad: after story",
+      "clannad: after story",
+      "clannad : after story",
+      "clannad after story",
+      "cas"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👨‍👩‍👧", "🌸", "🏠"] },
+      { "difficulty": "medium", "emojis": ["💍", "🌧️", "🚆"] },
+      { "difficulty": "hard", "emojis": ["🕊️", "💔", "🌄"] }
+    ]
+  },
+  {
+    "id": "erased_035",
+    "anime": {
+      "official": "Erased",
+      "romaji": "Boku dake ga Inai Machi",
+      "french": "Erased"
+    },
+    "accepted_answers": [
+      "erased",
+      "boku dake ga inai machi",
+      "erased",
+      "bdgim"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⏳", "👦", "❄️"] },
+      { "difficulty": "medium", "emojis": ["📝", "🚌", "🔪"] },
+      { "difficulty": "hard", "emojis": ["🧣", "📦", "👁️"] }
+    ]
+  },
+  {
+    "id": "parasyte_036",
+    "anime": {
+      "official": "Parasyte -the maxim-",
+      "romaji": "Kiseijū: Sei no Kakuritsu",
+      "french": "Parasyte"
+    },
+    "accepted_answers": [
+      "parasyte -the maxim-",
+      "kiseijū: sei no kakuritsu",
+      "parasyte",
+      "parasyte the maxim",
+      "ptm"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👁️", "🩸", "🖐️"] },
+      { "difficulty": "medium", "emojis": ["🧬", "🔪", "👦"] },
+      { "difficulty": "hard", "emojis": ["🧠", "🕷️", "🌃"] }
+    ]
+  },
+  {
+    "id": "monster_037",
+    "anime": {
+      "official": "Monster",
+      "romaji": "Monster",
+      "french": "Monster"
+    },
+    "accepted_answers": ["monster", "monster", "monster", "mstr"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧠", "🔫", "👨‍⚕️"] },
+      { "difficulty": "medium", "emojis": ["👶", "🌍", "📖"] },
+      { "difficulty": "hard", "emojis": ["🕯️", "🩸", "👁️"] }
+    ]
+  },
+  {
+    "id": "made_in_abyss_038",
+    "anime": {
+      "official": "Made in Abyss",
+      "romaji": "Meido in Abisu",
+      "french": "Made in Abyss"
+    },
+    "accepted_answers": [
+      "made in abyss",
+      "meido in abisu",
+      "made in abyss",
+      "mia"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🕳️", "👧", "🤖"] },
+      { "difficulty": "medium", "emojis": ["🧭", "🌌", "🧪"] },
+      { "difficulty": "hard", "emojis": ["🩸", "☠️", "🕯️"] }
+    ]
+  },
+  {
+    "id": "kuroko_no_basket_039",
+    "anime": {
+      "official": "Kuroko's Basketball",
+      "romaji": "Kuroko no Basuke",
+      "french": "Kuroko no Basket"
+    },
+    "accepted_answers": [
+      "kuroko's basketball",
+      "kuroko no basuke",
+      "kuroko no basket",
+      "knb"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏀", "👟", "⛹️"] },
+      { "difficulty": "medium", "emojis": ["🔥", "👁️", "🏫"] },
+      { "difficulty": "hard", "emojis": ["🟥", "🟦", "👑"] }
+    ]
+  },
+  {
+    "id": "toradora_040",
+    "anime": {
+      "official": "Toradora!",
+      "romaji": "Toradora!",
+      "french": "Toradora!"
+    },
+    "accepted_answers": ["toradora!", "toradora!", "toradora!", "trd"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐯", "🏫", "💘"] },
+      { "difficulty": "medium", "emojis": ["🎄", "🥊", "🍱"] },
+      { "difficulty": "hard", "emojis": ["💌", "🏠", "🌸"] }
+    ]
+  },
+  {
+    "id": "cowboy_bebop_041",
+    "anime": {
+      "official": "Cowboy Bebop",
+      "romaji": "Kaubōi Bibappu",
+      "french": "Cowboy Bebop"
+    },
+    "accepted_answers": [
+      "cowboy bebop",
+      "kaubōi bibappu",
+      "cowboy bebop",
+      "cb"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["", "🤠", "🔫"] },
+      { "difficulty": "medium", "emojis": ["🎷", "🌌", "💰"] },
+      { "difficulty": "hard", "emojis": ["🐶", "🛰️", "🃏"] }
+    ]
+  },
+  {
+    "id": "neon_genesis_evangelion_042",
+    "anime": {
+      "official": "Neon Genesis Evangelion",
+      "romaji": "Shin Seiki Evangelion",
+      "french": "Neon Genesis Evangelion"
+    },
+    "accepted_answers": [
+      "neon genesis evangelion",
+      "shin seiki evangelion",
+      "neon genesis evangelion",
+      "nge"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🤖", "👦", "🛸"] },
+      { "difficulty": "medium", "emojis": ["🧠", "🌊", "💥"] },
+      { "difficulty": "hard", "emojis": ["🪽", "🔔", "🩸"] }
+    ]
+  },
+  {
+    "id": "your_name_043",
+    "anime": {
+      "official": "Your Name.",
+      "romaji": "Kimi no Na wa.",
+      "french": "Your Name."
+    },
+    "accepted_answers": ["your name.", "kimi no na wa.", "your name.", "yn"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌠", "👫", "📱"] },
+      { "difficulty": "medium", "emojis": ["⏳", "🏔️", "🌸"] },
+      { "difficulty": "hard", "emojis": ["☄️", "🧵", "🌅"] }
+    ]
+  },
+  {
+    "id": "a_silent_voice_044",
+    "anime": {
+      "official": "A Silent Voice",
+      "romaji": "Koe no Katachi",
+      "french": "A Silent Voice"
+    },
+    "accepted_answers": [
+      "a silent voice",
+      "koe no katachi",
+      "a silent voice",
+      "asv"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👂", "🏫", "🌸"] },
+      { "difficulty": "medium", "emojis": ["📓", "🌊", "👫"] },
+      { "difficulty": "hard", "emojis": ["✋", "💔", "🎆"] }
+    ]
+  },
+  {
+    "id": "frieren_045",
+    "anime": {
+      "official": "Frieren: Beyond Journey's End",
+      "romaji": "Sōsō no Frieren",
+      "french": "Frieren"
+    },
+    "accepted_answers": [
+      "frieren: beyond journey's end",
+      "sōsō no frieren",
+      "frieren",
+      "frieren"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧝", "🪄", "🌄"] },
+      { "difficulty": "medium", "emojis": ["⚔️", "🪦", "🌌"] },
+      { "difficulty": "hard", "emojis": ["📜", "🕰️", "🌠"] }
+    ]
+  },
+  {
+    "id": "oshi_no_ko_046",
+    "anime": {
+      "official": "Oshi no Ko",
+      "romaji": "Oshi no Ko",
+      "french": "Oshi no Ko"
+    },
+    "accepted_answers": ["oshi no ko", "oshi no ko", "oshi no ko", "onk"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⭐", "🎤", "👶"] },
+      { "difficulty": "medium", "emojis": ["🎭", "📺", "💎"] },
+      { "difficulty": "hard", "emojis": ["🩸", "👁️", "🕯️"] }
+    ]
+  },
+  {
+    "id": "cyberpunk_edgerunners_047",
+    "anime": {
+      "official": "Cyberpunk: Edgerunners",
+      "romaji": "Cyberpunk: Edgerunners",
+      "french": "Cyberpunk: Edgerunners"
+    },
+    "accepted_answers": [
+      "cyberpunk: edgerunners",
+      "cyberpunk: edgerunners",
+      "cyberpunk: edgerunners",
+      "ce"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌆", "🔫", "💻"] },
+      { "difficulty": "medium", "emojis": ["🧠", "🚗", "💊"] },
+      { "difficulty": "hard", "emojis": ["📡", "🩸", "⚡"] }
+    ]
+  },
+  {
+    "id": "death_parade_048",
+    "anime": {
+      "official": "Death Parade",
+      "romaji": "Desu Parēdo",
+      "french": "Death Parade"
+    },
+    "accepted_answers": ["death parade", "desu parēdo", "death parade", "dp"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎱", "🍸", "💀"] },
+      { "difficulty": "medium", "emojis": ["🎮", "⚖️", "🕯️"] },
+      { "difficulty": "hard", "emojis": ["🃏", "👁️", "🩸"] }
+    ]
+  },
+  {
+    "id": "hells_paradise_049",
+    "anime": {
+      "official": "Hell's Paradise",
+      "romaji": "Jigokuraku",
+      "french": "Hell's Paradise"
+    },
+    "accepted_answers": [
+      "hell's paradise",
+      "jigokuraku",
+      "hell's paradise",
+      "hp"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏝️", "🗡️", "🌺"] },
+      { "difficulty": "medium", "emojis": ["🩸", "👘", "🐍"] },
+      { "difficulty": "hard", "emojis": ["🌸", "☠️", "🔥"] }
+    ]
+  },
+  {
+    "id": "bungo_stray_dogs_050",
+    "anime": {
+      "official": "Bungo Stray Dogs",
+      "romaji": "Bungō Sutorei Doggusu",
+      "french": "Bungo Stray Dogs"
+    },
+    "accepted_answers": [
+      "bungo stray dogs",
+      "bungō sutorei doggusu",
+      "bungo stray dogs",
+      "bsd"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["📚", "🐯", "🔫"] },
+      { "difficulty": "medium", "emojis": ["🕵️", "💥", "🧥"] },
+      { "difficulty": "hard", "emojis": ["🩸", "🏢", "🎩"] }
+    ]
+  },
+  {
+    "id": "psycho_pass_051",
+    "anime": {
+      "official": "Psycho-Pass",
+      "romaji": "Saiko Pasu",
+      "french": "Psycho-Pass"
+    },
+    "accepted_answers": ["psycho-pass", "saiko pasu", "psychopass", "pp"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🔫", "👮", "🧠"] },
+      { "difficulty": "medium", "emojis": ["🏙️", "⚖️", "👁️"] },
+      { "difficulty": "hard", "emojis": ["💿", "🏙️", "🧥"] }
+    ]
+  },
+  {
+    "id": "fire_force_052",
+    "anime": {
+      "official": "Fire Force",
+      "romaji": "En'en no Shōbōtai",
+      "french": "Fire Force"
+    },
+    "accepted_answers": [
+      "fire force",
+      "en'en no shōbōtai",
+      "enen no shouboutai",
+      "ff"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🔥", "👨‍🚒", "⛪"] },
+      { "difficulty": "medium", "emojis": ["🦶", "💨", "👹"] },
+      { "difficulty": "hard", "emojis": ["🩸", "🦋", "☀️"] }
+    ]
+  },
+  {
+    "id": "akame_ga_kill_053",
+    "anime": {
+      "official": "Akame ga Kill!",
+      "romaji": "Akame ga Kiru!",
+      "french": "Akame ga Kill!"
+    },
+    "accepted_answers": [
+      "akame ga kill!",
+      "akame ga kiru!",
+      "akame ga kill",
+      "agk"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🗡️", "💀", "🩸"] },
+      { "difficulty": "medium", "emojis": ["👑", "❄️", "🐉"] },
+      { "difficulty": "hard", "emojis": ["🦁", "🔥", "🎭"] }
+    ]
+  },
+  {
+    "id": "seven_deadly_sins_054",
+    "anime": {
+      "official": "The Seven Deadly Sins",
+      "romaji": "Nanatsu no Taizai",
+      "french": "Seven Deadly Sins"
+    },
+    "accepted_answers": [
+      "the seven deadly sins",
+      "nanatsu no taizai",
+      "seven deadly sins",
+      "sds",
+      "nnt"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐖", "🐉", "⚔️"] },
+      { "difficulty": "medium", "emojis": ["☀️", "🦁", "🍺"] },
+      { "difficulty": "hard", "emojis": ["🧚", "🐍", "🦊"] }
+    ]
+  },
+  {
+    "id": "assassination_classroom_055",
+    "anime": {
+      "official": "Assassination Classroom",
+      "romaji": "Ansatsu Kyōshitsu",
+      "french": "Assassination Classroom"
+    },
+    "accepted_answers": [
+      "assassination classroom",
+      "ansatsu kyōshitsu",
+      "ansatsu kyoushitsu"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐙", "🏫", "🔪"] },
+      { "difficulty": "medium", "emojis": ["🟡", "🔫", "🎯"] },
+      { "difficulty": "hard", "emojis": ["🌑", "🎓", "👔"] }
+    ]
+  },
+  {
+    "id": "overlord_056",
+    "anime": {
+      "official": "Overlord",
+      "romaji": "Ōbārōdo",
+      "french": "Overlord"
+    },
+    "accepted_answers": ["overlord", "ōbārōdo", "ovl"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["💀", "🏰", "🪄"] },
+      { "difficulty": "medium", "emojis": ["🧛", "👹", "🛡️"] },
+      { "difficulty": "hard", "emojis": ["🪑", "🐏", "🎭"] }
+    ]
+  },
+  {
+    "id": "hellsing_ultimate_057",
+    "anime": {
+      "official": "Hellsing Ultimate",
+      "romaji": "Herushingu",
+      "french": "Hellsing Ultimate"
+    },
+    "accepted_answers": ["hellsing ultimate", "herushingu", "hellsing"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧛", "🔫", "🩸"] },
+      { "difficulty": "medium", "emojis": ["⛪", "🇬🇧", "🕶️"] },
+      { "difficulty": "hard", "emojis": ["🐕", "👁️", "🎩"] }
+    ]
+  },
+  {
+    "id": "drifters_058",
+    "anime": {
+      "official": "Drifters",
+      "romaji": "Dorifutāzu",
+      "french": "Drifters"
+    },
+    "accepted_answers": ["drifters", "dorifutāzu"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "🩸", "🌀"] },
+      { "difficulty": "medium", "emojis": ["🏹", "🔥", "👹"] },
+      { "difficulty": "hard", "emojis": ["📜", "🔫", "🛩️"] }
+    ]
+  },
+  {
+    "id": "ranking_of_kings_059",
+    "anime": {
+      "official": "Ranking of Kings",
+      "romaji": "Ōsama Rankingu",
+      "french": "Ranking of Kings"
+    },
+    "accepted_answers": [
+      "ranking of kings",
+      "ōsama rankingu",
+      "ousama ranking"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👑", "👦", "🗡️"] },
+      { "difficulty": "medium", "emojis": ["🌑", "🏰", "👂"] },
+      { "difficulty": "hard", "emojis": ["🐍", "🍵", "🥊"] }
+    ]
+  },
+  {
+    "id": "soul_eater_060",
+    "anime": {
+      "official": "Soul Eater",
+      "romaji": "Sōru Ītā",
+      "french": "Soul Eater"
+    },
+    "accepted_answers": ["soul eater", "sōru ītā", "se"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌙", "💀", "⚔️"] },
+      { "difficulty": "medium", "emojis": ["🏫", "👻", "🔥"] },
+      { "difficulty": "hard", "emojis": ["🎹", "🧛", "☕"] }
+    ]
+  },
+
+  {
+    "id": "blue_exorcist_061",
+    "anime": {
+      "official": "Blue Exorcist",
+      "romaji": "Ao no Ekusoshisuto",
+      "french": "Blue Exorcist"
+    },
+    "accepted_answers": [
+      "blue exorcist",
+      "ao no ekusoshisuto",
+      "blue exorcist",
+      "be"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🔥", "👿", "⚔️"] },
+      { "difficulty": "medium", "emojis": ["🔵", "👓", "🔫"] },
+      { "difficulty": "hard", "emojis": ["⛪", "🧥", "🐱"] }
+    ]
+  },
+  {
+    "id": "black_butler_062",
+    "anime": {
+      "official": "Black Butler",
+      "romaji": "Kuroshitsuji",
+      "french": "Black Butler"
+    },
+    "accepted_answers": ["black butler", "kuroshitsuji", "black butler"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🍴", "☕", "😈"] },
+      { "difficulty": "medium", "emojis": ["👔", "👁️", "🎩"] },
+      { "difficulty": "hard", "emojis": ["♟️", "🕷️", "🩸"] }
+    ]
+  },
+  {
+    "id": "seraph_of_the_end_063",
+    "anime": {
+      "official": "Seraph of the End",
+      "romaji": "Owari no Seraph",
+      "french": "Seraph of the End"
+    },
+    "accepted_answers": [
+      "seraph of the end",
+      "owari no seraph",
+      "seraph of the end",
+      "sote"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🧛", "⚔️", "🩸"] },
+      { "difficulty": "medium", "emojis": ["🧪", "👹", "🛡️"] },
+      { "difficulty": "hard", "emojis": ["🎺", "🕊️", "🏙️"] }
+    ]
+  },
+  {
+    "id": "dororo_064",
+    "anime": {
+      "official": "Dororo",
+      "romaji": "Dororo",
+      "french": "Dororo"
+    },
+    "accepted_answers": ["dororo", "dororo", "dororo"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "👹", "👦"] },
+      { "difficulty": "medium", "emojis": ["🖐️", "🦾", "🎭"] },
+      { "difficulty": "hard", "emojis": ["🎑", "🩸", "🔥"] }
+    ]
+  },
+  {
+    "id": "fate_zero_065",
+    "anime": {
+      "official": "Fate/Zero",
+      "romaji": "Feito/Zero",
+      "french": "Fate/Zero"
+    },
+    "accepted_answers": ["fate/zero", "feito/zero", "fate zero"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏆", "⚔️", "🪄"] },
+      { "difficulty": "medium", "emojis": ["🏍️", "🔫", "🔥"] },
+      { "difficulty": "hard", "emojis": ["🍷", "🏰", "🩸"] }
+    ]
+  },
+  {
+    "id": "paranoia_agent_066",
+    "anime": {
+      "official": "Paranoia Agent",
+      "romaji": "Mōsō Dairinin",
+      "french": "Paranoia Agent"
+    },
+    "accepted_answers": ["paranoia agent", "mōsō dairinin", "paranoia agent"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏒", "⛸️", "🧠"] },
+      { "difficulty": "medium", "emojis": ["💥", "🏙️", "👮"] },
+      { "difficulty": "hard", "emojis": ["🐶", "📻", "🌀"] }
+    ]
+  },
+  {
+    "id": "terror_in_resonance_067",
+    "anime": {
+      "official": "Terror in Resonance",
+      "romaji": "Zankyō no Teroru",
+      "french": "Terror in Resonance"
+    },
+    "accepted_answers": [
+      "terror in resonance",
+      "zankyō no teroru",
+      "terror in resonance",
+      "titr"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["💣", "🏢", "👦"] },
+      { "difficulty": "medium", "emojis": ["📱", "❄️", "🕵️"] },
+      { "difficulty": "hard", "emojis": ["🎧", "💊", "🗼"] }
+    ]
+  },
+  {
+    "id": "classroom_of_the_elite_068",
+    "anime": {
+      "official": "Classroom of the Elite",
+      "romaji": "Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e",
+      "french": "Classroom of the Elite"
+    },
+    "accepted_answers": [
+      "classroom of the elite",
+      "yōkoso jitsuryoku shijō shugi no kyōshitsu e",
+      "classroom of the elite",
+      "cote"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏫", "🧠", "🎒"] },
+      { "difficulty": "medium", "emojis": ["💳", "♟️", "👁️"] },
+      { "difficulty": "hard", "emojis": ["🏝️", "💼", "🤝"] }
+    ]
+  },
+  {
+    "id": "beastars_069",
+    "anime": {
+      "official": "Beastars",
+      "romaji": "Bīsutāzu",
+      "french": "Beastars"
+    },
+    "accepted_answers": ["beastars", "bīsutāzu", "beastars"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐺", "🐰", "🏫"] },
+      { "difficulty": "medium", "emojis": ["🎭", "🌙", "🩸"] },
+      { "difficulty": "hard", "emojis": ["🦌", "🍳", "🏙️"] }
+    ]
+  },
+  {
+    "id": "another_070",
+    "anime": {
+      "official": "Another",
+      "romaji": "Anaza",
+      "french": "Another"
+    },
+    "accepted_answers": ["another", "anaza", "another"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏫", "💀", "🌂"] },
+      { "difficulty": "medium", "emojis": ["👁️", "🎎", "🩸"] },
+      { "difficulty": "hard", "emojis": ["🎹", "📸", "🔥"] }
+    ]
+  },
+  {
+    "id": "trigun_071",
+    "anime": {
+      "official": "Trigun",
+      "romaji": "Toraigan",
+      "french": "Trigun"
+    },
+    "accepted_answers": ["trigun", "toraigan"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🔫", "🤠", "🌵"] },
+      { "difficulty": "medium", "emojis": ["🍩", "💥", "🕊️"] },
+      { "difficulty": "hard", "emojis": ["🌑", "🧥", "⚙️"] }
+    ]
+  },
+  {
+    "id": "golden_kamuy_072",
+    "anime": {
+      "official": "Golden Kamuy",
+      "romaji": "Gōruden Kamui",
+      "french": "Golden Kamuy"
+    },
+    "accepted_answers": ["golden kamuy", "gōruden kamui", "gk"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐻", "🗺️", "🏔️"] },
+      { "difficulty": "medium", "emojis": ["🪖", "🔪", "🦅"] },
+      { "difficulty": "hard", "emojis": ["🧊", "🪤", "🪙"] }
+    ]
+  },
+  {
+    "id": "no_game_no_life_073",
+    "anime": {
+      "official": "No Game No Life",
+      "romaji": "Nō Gēmu Nō Raifu",
+      "french": "No Game No Life"
+    },
+    "accepted_answers": ["no game no life", "nō gēmu nō raifu", "ngnl"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎮", "♟️", "🎲"] },
+      { "difficulty": "medium", "emojis": ["👑", "🃏", "🌈"] },
+      { "difficulty": "hard", "emojis": ["🔢", "🎯", "🧩"] }
+    ]
+  },
+  {
+    "id": "highschool_dxd_074",
+    "anime": {
+      "official": "High School DxD",
+      "romaji": "Haisukūru DxD",
+      "french": "High School DxD"
+    },
+    "accepted_answers": ["high school dxd", "haisukūru dxd", "dxd"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["😈", "🏫", "🔥"] },
+      { "difficulty": "medium", "emojis": ["♟️", "🪽", "⚔️"] },
+      { "difficulty": "hard", "emojis": ["🐉", "🌀", "👑"] }
+    ]
+  },
+  {
+    "id": "sword_of_the_stranger_075",
+    "anime": {
+      "official": "Sword of the Stranger",
+      "romaji": "Stranger: Mukou Hadan",
+      "french": "Sword of the Stranger"
+    },
+    "accepted_answers": [
+      "sword of the stranger",
+      "stranger: mukou hadan",
+      "mukou hadan",
+      "sots"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "🐕", "🌾"] },
+      { "difficulty": "medium", "emojis": ["🏯", "🩸", "🌨️"] },
+      { "difficulty": "hard", "emojis": ["🌅", "🔴", "🪢"] }
+    ]
+  },
+  {
+    "id": "fullmetal_alchemist_2003_076",
+    "anime": {
+      "official": "Fullmetal Alchemist (2003)",
+      "romaji": "Hagane no Renkinjutsushi (2003)",
+      "french": "Fullmetal Alchemist (2003)"
+    },
+    "accepted_answers": [
+      "fullmetal alchemist (2003)",
+      "hagane no renkinjutsushi (2003)",
+      "fma 2003",
+      "fma"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚗️", "🤖", "👦"] },
+      { "difficulty": "medium", "emojis": ["🌧️", "🩸", "🏚️"] },
+      { "difficulty": "hard", "emojis": ["🚪", "🌑", "💡"] }
+    ]
+  },
+  {
+    "id": "banana_fish_077",
+    "anime": {
+      "official": "Banana Fish",
+      "romaji": "Banana Fish",
+      "french": "Banana Fish"
+    },
+    "accepted_answers": ["banana fish", "bf"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🍌", "🔫", "🌆"] },
+      { "difficulty": "medium", "emojis": ["💊", "🕵️", "🏍️"] },
+      { "difficulty": "hard", "emojis": ["📷", "⛓️", "🌃"] }
+    ]
+  },
+  {
+    "id": "wind_breaker_078",
+    "anime": {
+      "official": "Wind Breaker",
+      "romaji": "Windo Bureikā",
+      "french": "Wind Breaker"
+    },
+    "accepted_answers": ["wind breaker", "windo bureikā", "wb"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌀", "🏫", "👊"] },
+      { "difficulty": "medium", "emojis": ["🌸", "🚲", "🔥"] },
+      { "difficulty": "hard", "emojis": ["🧥", "🏙️", "👑"] }
+    ]
+  },
+  {
+    "id": "summertime_render_079",
+    "anime": {
+      "official": "Summertime Render",
+      "romaji": "Sumātaimu Rendā",
+      "french": "Summertime Render"
+    },
+    "accepted_answers": ["summertime render", "sumātaimu rendā", "str"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏝️", "☀️", "👥"] },
+      { "difficulty": "medium", "emojis": ["🌊", "🔪", "👁️"] },
+      { "difficulty": "hard", "emojis": ["🌑", "📸", "⏳"] }
+    ]
+  },
+  {
+    "id": "dungeon_meshi_080",
+    "anime": {
+      "official": "Delicious in Dungeon",
+      "romaji": "Dungeon Meshi",
+      "french": "Delicious in Dungeon"
+    },
+    "accepted_answers": ["delicious in dungeon", "dungeon meshi", "dunmeshi"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🍳", "🗡️", "🏰"] },
+      { "difficulty": "medium", "emojis": ["🐉", "🧝", "🍲"] },
+      { "difficulty": "hard", "emojis": ["🦎", "🍄", "⚗️"] }
+    ]
+  },
+  {
+    "id": "mushishi_081",
+    "anime": {
+      "official": "Mushishi",
+      "romaji": "Mushishi",
+      "french": "Mushishi"
+    },
+    "accepted_answers": ["mushishi", "mushi-shi"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌿", "🕯️", "🌫️"] },
+      { "difficulty": "medium", "emojis": ["👁️", "🍄", "🌊"] },
+      { "difficulty": "hard", "emojis": ["🌑", "🎋", "🦋"] }
+    ]
+  },
+  {
+    "id": "ping_pong_the_animation_082",
+    "anime": {
+      "official": "Ping Pong The Animation",
+      "romaji": "Ping Pong",
+      "french": "Ping Pong The Animation"
+    },
+    "accepted_answers": ["ping pong the animation", "ping pong", "pp"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏓", "🏆", "👦"] },
+      { "difficulty": "medium", "emojis": ["🦸", "🎯", "🏫"] },
+      { "difficulty": "hard", "emojis": ["🦅", "🌊", "😐"] }
+    ]
+  },
+  {
+    "id": "great_pretender_083",
+    "anime": {
+      "official": "Great Pretender",
+      "romaji": "Gurēto Puritendā",
+      "french": "Great Pretender"
+    },
+    "accepted_answers": ["great pretender", "gurēto puritendā", "gp"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎭", "💰", "✈️"] },
+      { "difficulty": "medium", "emojis": ["🃏", "🌍", "🕵️"] },
+      { "difficulty": "hard", "emojis": ["🎪", "💎", "🚢"] }
+    ]
+  },
+  {
+    "id": "sk8_the_infinity_084",
+    "anime": {
+      "official": "SK8 the Infinity",
+      "romaji": "SK∞",
+      "french": "SK8 the Infinity"
+    },
+    "accepted_answers": ["sk8 the infinity", "sk∞", "sk8", "sk8thinf"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🛹", "🔥", "🏆"] },
+      { "difficulty": "medium", "emojis": ["🌙", "🌺", "💥"] },
+      { "difficulty": "hard", "emojis": ["🦋", "🤖", "🎨"] }
+    ]
+  },
+  {
+    "id": "angels_of_death_085",
+    "anime": {
+      "official": "Angels of Death",
+      "romaji": "Satsuriku no Tenshi",
+      "french": "Angels of Death"
+    },
+    "accepted_answers": [
+      "angels of death",
+      "satsuriku no tenshi",
+      "aod",
+      "snth"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🔪", "🏚️", "😱"] },
+      { "difficulty": "medium", "emojis": ["⛓️", "🩸", "🎀"] },
+      { "difficulty": "hard", "emojis": ["👁️", "🌿", "🕯️"] }
+    ]
+  },
+  {
+    "id": "to_your_eternity_086",
+    "anime": {
+      "official": "To Your Eternity",
+      "romaji": "Fumetsu no Anata e",
+      "french": "To Your Eternity"
+    },
+    "accepted_answers": [
+      "to your eternity",
+      "fumetsu no anata e",
+      "tye",
+      "fnae"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐺", "🌍", "❄️"] },
+      { "difficulty": "medium", "emojis": ["🌱", "💀", "👦"] },
+      { "difficulty": "hard", "emojis": ["🔮", "🌊", "🌸"] }
+    ]
+  },
+  {
+    "id": "odd_taxi_087",
+    "anime": {
+      "official": "Odd Taxi",
+      "romaji": "Oddotakushī",
+      "french": "Odd Taxi"
+    },
+    "accepted_answers": ["odd taxi", "oddotakushī", "odtx"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🚕", "🦦", "🌆"] },
+      { "difficulty": "medium", "emojis": ["🎙️", "🐘", "🕵️"] },
+      { "difficulty": "hard", "emojis": ["🎰", "📱", "🦒"] }
+    ]
+  },
+  {
+    "id": "link_click_088",
+    "anime": {
+      "official": "Link Click",
+      "romaji": "Shiguang Dailiren",
+      "french": "Link Click"
+    },
+    "accepted_answers": ["link click", "shiguang dailiren", "lc"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["📸", "⏳", "👥"] },
+      { "difficulty": "medium", "emojis": ["🔍", "💔", "🌆"] },
+      { "difficulty": "hard", "emojis": ["🧩", "🕰️", "👁️"] }
+    ]
+  },
+  {
+    "id": "bocchi_the_rock_089",
+    "anime": {
+      "official": "Bocchi the Rock!",
+      "romaji": "Bocchi za Rokku!",
+      "french": "Bocchi the Rock!"
+    },
+    "accepted_answers": [
+      "bocchi the rock!",
+      "bocchi za rokku!",
+      "bocchi the rock",
+      "btr"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎸", "🎵", "😰"] },
+      { "difficulty": "medium", "emojis": ["🎤", "🏫", "📦"] },
+      { "difficulty": "hard", "emojis": ["🌸", "🎹", "🐙"] }
+    ]
+  },
+  {
+    "id": "dandadan_090",
+    "anime": {
+      "official": "DAN DA DAN",
+      "romaji": "Dandadan",
+      "french": "DAN DA DAN"
+    },
+    "accepted_answers": ["dan da dan", "dandadan", "ddd"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["👽", "👻", "💥"] },
+      { "difficulty": "medium", "emojis": ["🏫", "🛸", "🔥"] },
+      { "difficulty": "hard", "emojis": ["🧿", "⚡", "🌀"] }
+    ]
+  },
+  {
+    "id": "sonny_boy_091",
+    "anime": {
+      "official": "Sonny Boy",
+      "romaji": "Sanī Bōi",
+      "french": "Sonny Boy"
+    },
+    "accepted_answers": ["sonny boy", "sanī bōi", "sb"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏝️", "👦", "🌀"] },
+      { "difficulty": "medium", "emojis": ["🏫", "🌌", "🐈"] },
+      { "difficulty": "hard", "emojis": ["🧭", "🍎", "♾️"] }
+    ]
+  },
+  {
+    "id": "march_comes_in_like_a_lion_092",
+    "anime": {
+      "official": "March Comes in Like a Lion",
+      "romaji": "3-gatsu no Lion",
+      "french": "March Comes in Like a Lion"
+    },
+    "accepted_answers": [
+      "march comes in like a lion",
+      "3-gatsu no lion",
+      "sangatsu no lion",
+      "3lion"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["♟️", "🦁", "🏠"] },
+      { "difficulty": "medium", "emojis": ["❄️", "🌸", "🍚"] },
+      { "difficulty": "hard", "emojis": ["🌧️", "🕯️", "🐱"] }
+    ]
+  },
+  {
+    "id": "wolf_children_093",
+    "anime": {
+      "official": "Wolf Children",
+      "romaji": "Ōkami Kodomo no Ame to Yuki",
+      "french": "Les Enfants Loups, Ame et Yuki"
+    },
+    "accepted_answers": [
+      "wolf children",
+      "ōkami kodomo no ame to yuki",
+      "les enfants loups, ame et yuki",
+      "wolf children ame and yuki"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🐺", "👧", "🌧️"] },
+      { "difficulty": "medium", "emojis": ["❄️", "🌾", "👩"] },
+      { "difficulty": "hard", "emojis": ["🌲", "🏡", "🌕"] }
+    ]
+  },
+  {
+    "id": "welcome_to_nhk_094",
+    "anime": {
+      "official": "Welcome to the NHK",
+      "romaji": "NHK ni Yōkoso!",
+      "french": "Bienvenue dans la NHK"
+    },
+    "accepted_answers": [
+      "welcome to the nhk",
+      "nhk ni yōkoso!",
+      "bienvenue dans la nhk",
+      "nhk"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🏠", "📺", "😰"] },
+      { "difficulty": "medium", "emojis": ["💊", "🎮", "🌃"] },
+      { "difficulty": "hard", "emojis": ["📦", "🕷️", "🌀"] }
+    ]
+  },
+  {
+    "id": "yuri_on_ice_095",
+    "anime": {
+      "official": "Yuri!!! on Ice",
+      "romaji": "Yuri!!! on Ice",
+      "french": "Yuri!!! on Ice"
+    },
+    "accepted_answers": ["yuri!!! on ice", "yoi"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⛸️", "🏆", "🌊"] },
+      { "difficulty": "medium", "emojis": ["🐯", "🌹", "🎵"] },
+      { "difficulty": "hard", "emojis": ["🇷🇺", "🦢", "💍"] }
+    ]
+  },
+  {
+    "id": "toilet_bound_hanako_kun_096",
+    "anime": {
+      "official": "Toilet-bound Hanako-kun",
+      "romaji": "Jibaku Shounen Hanako-kun",
+      "french": "Toilet-bound Hanako-kun"
+    },
+    "accepted_answers": [
+      "toilet-bound hanako-kun",
+      "jibaku shounen hanako-kun",
+      "hanako-kun",
+      "tbhk"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🚽", "👻", "🏫"] },
+      { "difficulty": "medium", "emojis": ["🌸", "🔪", "🪞"] },
+      { "difficulty": "hard", "emojis": ["⏳", "🕯️", "🌀"] }
+    ]
+  },
+  {
+    "id": "the_tatami_galaxy_097",
+    "anime": {
+      "official": "The Tatami Galaxy",
+      "romaji": "Yojouhan Shinwa Taikei",
+      "french": "The Tatami Galaxy"
+    },
+    "accepted_answers": [
+      "the tatami galaxy",
+      "yojouhan shinwa taikei",
+      "tatami galaxy",
+      "ttg"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🌀", "🏫", "📚"] },
+      { "difficulty": "medium", "emojis": ["🍜", "🎭", "⏳"] },
+      { "difficulty": "hard", "emojis": ["🌌", "🪆", "🖤"] }
+    ]
+  },
+  {
+    "id": "given_098",
+    "anime": {
+      "official": "Given",
+      "romaji": "Givun",
+      "french": "Given"
+    },
+    "accepted_answers": ["given", "givun"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["🎸", "🎵", "💔"] },
+      { "difficulty": "medium", "emojis": ["🎤", "🌧️", "👦"] },
+      { "difficulty": "hard", "emojis": ["🎼", "🌸", "🎹"] }
+    ]
+  },
+  {
+    "id": "kaguya_sama_love_is_war_099",
+    "anime": {
+      "official": "Kaguya-sama: Love Is War",
+      "romaji": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+      "french": "Kaguya-sama : Love Is War"
+    },
+    "accepted_answers": [
+      "kaguya-sama: love is war",
+      "kaguya-sama wa kokurasetai: tensai-tachi no renai zunousen",
+      "kaguya-sama : love is war",
+      "kaguya-sama",
+      "kls"
+    ],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["💘", "🏫", "👑"] },
+      { "difficulty": "medium", "emojis": ["♟️", "🧠", "📱"] },
+      { "difficulty": "hard", "emojis": ["🎆", "🫦", "🎙️"] }
+    ]
+  },
+  {
+    "id": "katanagatari_100",
+    "anime": {
+      "official": "Katanagatari",
+      "romaji": "Katanagatari",
+      "french": "Katanagatari"
+    },
+    "accepted_answers": ["katanagatari", "ktng"],
+    "emoji_sets": [
+      { "difficulty": "easy", "emojis": ["⚔️", "👘", "🗾"] },
+      { "difficulty": "medium", "emojis": ["🩸", "🌸", "🧩"] },
+      { "difficulty": "hard", "emojis": ["🐉", "🏔️", "🎴"] }
+    ]
+  }
+]

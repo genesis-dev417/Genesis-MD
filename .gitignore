@@ -1,0 +1,17 @@
+# 🔐 Fichiers d'authentification WhatsApp
+*.data.json
+auth
+
+# 📝 Variables d'environnement
+# 📦 Node modules
+node_modules
+package-lock.json
+yarn.lock
+
+# 🗄️ Fichiers de configuration locaux
+
+.gitignore
+GEMINI.md
+.geminiignore
+loader.js
+obfuscate.js

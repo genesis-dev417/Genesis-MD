@@ -1,0 +1,14 @@
+services:
+  genesis-bot:
+    build: .
+    container_name: genesis-md-bot
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      # Persistance de la session WhatsApp
+      - ./auth_info_baileys:/usr/src/app/auth_info_baileys
+      # Persistance du fichier d'erreur (ton instruction spécifique)
+      - ./error_log.txt:/usr/src/app/error_log.txt
+    tty: true
+    stdin_open: true
