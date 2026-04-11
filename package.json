@@ -1,13 +1,12 @@
 {
   "name": "genesis-md",
-  "version": "1.0.0-beta",
+  "version": "1.0.1-beta",
   "description": "Bot WhatsApp multifonction avec authentification QR Code",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "reset-auth": "node -e \"require('fs').rmSync('./auth_info_baileys', {recursive: true, force: true}); console.log('✅ Auth reset')\""
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "whatsapp",
