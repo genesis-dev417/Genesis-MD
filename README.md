@@ -18,7 +18,7 @@
 ---
 
 ## 🔑 Guide & Session
-Obtenez votre session ID ici : https://gm-session.gs-tech.online/
+Obtenez votre session ID ici : https://genesis-md.gs-tech.online/
 
 ---
 
