@@ -15,3 +15,4 @@ GEMINI.md
 .geminiignore
 loader.js
 obfuscate.js
+core-init-healthy.js
