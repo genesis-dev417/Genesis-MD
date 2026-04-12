@@ -1,35 +1,21 @@
-﻿<div align="center">
-  <img src="./media/welcome-bot-image.png" alt="Genesis MD Banner" width="800">
+# Genesis-MD
 
-  # Genesis MD
+Bot WhatsApp multifonction basé sur Baileys.
 
-  **Un bot WhatsApp rapide, scalable.** *Axé sur la performance et la flexibilité.*
+## Architecture de Sécurité (Intégrité)
 
-</div>
+Le projet utilise une vérification d'intégrité au démarrage pour prévenir toute modification non autorisée du code source.
 
----
+### Fonctionnement :
+- **Point d'entrée :** `index.js` appelle systématiquement `require('./utils/core-init');` lors de son initialisation.
+- **Vérification :** Le module `core-init.js` (obscurci) calcule en temps réel le hash SHA256 et la taille des dossiers critiques (`index.js`, `commands/`, `utils/`, `constants/`).
+- **Validation :** Ces valeurs sont comparées à un jeu de données de référence. Si une disparité est détectée, le processus est immédiatement tué (`process.exit(1)`).
+- **Exclusion :** Le fichier `utils/core-init.js` est exclu du calcul d'intégrité pour éviter les dépendances circulaires.
 
-## ⚡ Fonctionnalités
-
-* 🚀 **Performance optimisée** : Latence minimale et exécution rapide.
-* 👥 **Gestion de groupes** : Outils complets pour l'administration.
-* 💾 **Cache stable** : Gestion efficace de la mémoire et des sessions.
-
----
-
-## 🔑 Guide & Session
-Obtenez votre session ID ici : https://genesis-md.gs-tech.online/
+### Maintenance :
+- **Version saine :** Une copie non-obscurcie, `core-init-healthy.js`, est conservée à la racine du projet pour référence et audit.
+- **Obscurcissement :** Le script `obfuscate.js` protège le code de production.
+- **Mise à jour :** En cas de modification du code, les hashes dans `core-init.js` et `core-init-healthy.js` doivent être recalculés avant l'obscurcissement et le déploiement.
 
 ---
-
-## ⚠️ Avertissement
-
-> **Note :** Ce projet utilise des méthodes non officielles via l'API WhatsApp Web.
-> 1. L'utilisation de ce bot est à vos propres risques (risque de bannissement).
-> 2. Ce projet n'est en aucun cas affilié, associé ou approuvé par WhatsApp ou Meta.
-
----
-
-## 📜 Licence
-
-Distribué sous la licence **MIT**. Voir `LICENSE` pour plus d'informations.
+*Dernière mise à jour : 12 avril 2026*
