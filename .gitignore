@@ -11,7 +11,7 @@ yarn.lock
 # 🗄️ Fichiers de configuration locaux
 
 .gitignore
-GEMINI.md
+agents.md
 .geminiignore
 loader.js
 obfuscate.js
